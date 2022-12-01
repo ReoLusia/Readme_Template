@@ -1,2 +1,2 @@
 # Readme_Template
-Simple template for "Readme" File.
+Simple templates for "README.md" File.
